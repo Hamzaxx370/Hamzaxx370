@@ -13,5 +13,5 @@ Thanks to:
   
 ## Suggested Tools:  
 
--[DATman](https://github.com/SamuraiOndo/DATMan) by [SamuraiOndo](https://github.com/SamuraiOndo) to extract Animation Containers from Media1/Motion.
+-[DATman](https://github.com/SamuraiOndo/DATMan) by [SamuraiOndo](https://github.com/SamuraiOndo) to extract Animation Containers from Media1/Motion.  
 -[AuthEdit](https://github.com/Fronkln/HActLib/tree/authedit_1.5.6) by [Jhrino](https://github.com/Fronkln) to extract Heat action animations from Media1/Yact.
